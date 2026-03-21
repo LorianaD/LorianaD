@@ -1,59 +1,91 @@
-# 👋 Bonjour, moi c’est Loriana
+<!-- HEADER -->
+<h1 align="center">👋 Bonjour, moi c’est Loriana</h1>
+<h3 align="center">Développeuse Web & Web Mobile</h3>
 
-💻 Développeuse web & web mobile
-🎯 Je crée des applications utiles, accessibles et orientées utilisateur  
+<p align="center">
+🎯 Applications utiles & orientées utilisateur <br>
+🚀 En recherche d’alternance
+</p>
+
+---
+
+## 🧠 À propos de moi
+
+- 🔍 Profil logique, organisé et orienté solution  
+- 🎨 Sensibilité UX/UI (Figma, design propre et accessible)  
+- 🤝 Travail en équipe (Scrum, gestion de projet)  
+- 💡 J’aime transformer une idée en application concrète  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Front-end
-- HTML5, CSS3, JavaScript
-- React
-- Tailwind CSS
+### 💻 Front-end
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-### Back-end
-- Node.js
-- PHP
-- Symfony
+### ⚙️ Back-end
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,symfony" />
+</p>
 
-### Base de données
-- MySQL
+### 🗄️ Base de données
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Outils
-- Git & GitHub
-- VS Code
-- Figma
+### 🧰 Outils
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
-## 🚀 Projets
+## 🚀 Projets principaux
 
 ### 🌌 MarsAI
 Plateforme de festival de films IA  
-- React / Node.js / MySQL  
-- CMS dynamique  
-- Gestion de contenu multilingue  
+- Front React + API Node.js  
+- CMS dynamique (contenu modifiable)  
+- Gestion multilingue  
+- Travail en équipe (Scrum Master)
+
+---
 
 ### 🛡️ Protégéo
 Application d’accompagnement administratif et juridique  
-- UX pensée pour l’accessibilité  
-- Gestion de données sensibles  
+- UX pensée pour accessibilité  
+- Organisation de données complexes  
+- Projet à forte dimension humaine  
 
 ---
 
-## 🎯 Objectif
+## 📊 GitHub Stats
 
-Actuellement en formation Développeur Web (RNCP Bac +2),  
-je recherche une **alternance** pour continuer à évoluer en développement web.
-
----
-
-## 📫 Me contacter
-
-- Portfolio : https://loriana.dianoholding.com 
-- LinkedIn : https://www.linkedin.com/in/loriana-diano-33187ba8
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=default" />
+</p>
 
 ---
 
-✨ Merci de visiter mon profil !
+## 🌐 Me retrouver
+
+<p align="center">
+<a href="https://loriana.dianoholding.com">🌍 Portfolio</a> •
+<a href="https://www.linkedin.com/in/loriana-diano-33187ba8">💼 LinkedIn</a>
+</p>
+
+---
+
+## ✨ Vision
+
+Je souhaite évoluer en tant que développeuse web  
+en créant des projets utiles, accessibles et bien pensés,  
+avec une vraie valeur pour les utilisateurs.
+
+---
+
+<p align="center">
+💙 Merci de visiter mon profil
+</p>
