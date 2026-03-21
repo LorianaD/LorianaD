@@ -64,7 +64,7 @@ Application d’accompagnement administratif et juridique
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LorianaD&show_icons=true&theme=default" />
 </p>
 
 ---
