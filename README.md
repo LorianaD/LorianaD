@@ -68,7 +68,7 @@ I’m especially interested in concrete projects, user experience, and turning i
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="#">Protégéo</a></h3>
+      <h3>🛡️ <a href="https://github.com/LorianaD/protegeo-showcase">Protégéo</a></h3>
       <p>
         Projet d’accompagnement administratif et juridique.
       </p>
