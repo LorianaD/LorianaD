@@ -117,8 +117,8 @@ I’m especially interested in concrete projects, user experience, and turning i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=LorianaD&show_icons=true&hide_border=true" />
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorianaD&layout=compact&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-teal-sigma-81.vercel.app/api?username=LorianaD&show_icons=true&hide_border=true&locale=fr" />
+  <img width="48%" src="https://github-readme-stats-teal-sigma-81.vercel.app/api/top-langs/?username=LorianaD&layout=compact&hide_border=true&locale=fr" />
 </p>
 
 ---
