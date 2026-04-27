@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour, moi c’est Loriana 👋</h1>
-<h3 align="center">Développeuse Web & Web Mobile</h3>
+<h3 align="center">Développeuse Web</h3>
 
 <p align="center">
   React • Node.js • Symfony • MySQL • Figma
