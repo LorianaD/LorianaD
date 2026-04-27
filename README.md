@@ -14,12 +14,12 @@
 
 ## 🇫🇷 À propos
 
-Développeuse web & web mobile, j’aime concevoir des applications utiles, accessibles et bien structurées.  
+Développeuse web, j’aime concevoir des applications utiles, accessibles et bien structurées.  
 Je m’intéresse particulièrement aux projets concrets, à l’expérience utilisateur, et à la transformation d’une idée en produit fonctionnel.
 
 ## 🇬🇧 About
 
-Web & mobile web developer, I enjoy building useful, accessible, and well-structured applications.  
+Web developer, I enjoy building useful, accessible, and well-structured applications.  
 I’m especially interested in concrete projects, user experience, and turning ideas into functional products.
 
 ---
