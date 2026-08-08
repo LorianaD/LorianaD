@@ -12,12 +12,18 @@
 
 ---
 
-## 🇫🇷 À propos
+<h2>
+  <img src="./assets/flags/fr.svg" width="28" alt="FR">
+  À propos
+</h2>
 
 Développeuse web, j’aime concevoir des applications utiles, accessibles et bien structurées.  
 Je m’intéresse particulièrement aux projets concrets, à l’expérience utilisateur, et à la transformation d’une idée en produit fonctionnel.
 
-## 🇬🇧 About
+<h2>
+  <img src="./assets/flags/gb.svg" width="28" alt="GB">
+  About
+</h2>
 
 Web developer, I enjoy building useful, accessible, and well-structured applications.  
 I’m especially interested in concrete projects, user experience, and turning ideas into functional products.
@@ -53,7 +59,12 @@ I’m especially interested in concrete projects, user experience, and turning i
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌌 <a href="https://github.com/LorianaD/project_marsai-bordeaux-groupe_LVETM">MarsAI</a></h3>
+      <h3>
+        🌌
+        <a href="https://github.com/LorianaD/project_marsai-bordeaux-groupe_LVETM">
+          MarsAI
+        </a>
+      </h3>
       <p>
         Plateforme autour d’un festival de films IA.
       </p>
@@ -68,7 +79,12 @@ I’m especially interested in concrete projects, user experience, and turning i
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/LorianaD/protegeo-showcase">Protégéo</a></h3>
+      <h3>
+        <img src="./assets/icons/protegeo.svg" width="20" alt="GB">
+        <a href="https://github.com/LorianaD/protegeo-showcase">
+          Protégéo
+        </a>
+      </h3>
       <p>
         Projet d’accompagnement administratif et juridique.
       </p>
@@ -84,7 +100,12 @@ I’m especially interested in concrete projects, user experience, and turning i
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/LorianaD/portfolio_LorianaDIANO">Portfolio</a></h3>
+      <h3>
+        💼
+        <a href="https://github.com/LorianaD/portfolio_LorianaDIANO">
+          Portfolio
+        </a>
+      </h3>
       <p>
         Espace personnel pour présenter mon parcours, mes compétences et mes projets.
       </p>
@@ -98,7 +119,10 @@ I’m especially interested in concrete projects, user experience, and turning i
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 En évolution</h3>
+      <h3>
+        🌱
+        En évolution
+      </h3>
       <p>
         Je développe aussi des idées de projets utiles autour de la santé, de l’accompagnement et de l’organisation.
       </p>
